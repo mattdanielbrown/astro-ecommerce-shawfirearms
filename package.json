@@ -18,7 +18,7 @@
     "forward-ref": "^1.0.0",
     "json-server": "^0.17.0",
     "react": "^18.2.0",
-    "react-bootstrap": "^2.6.0",
+    "react-bootstrap": "^2.10.10",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
